@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.list {
+  margin-right: 5px;
+  align-self: center;
+  background-color: transparent;
+  color: #7b8794;
+}
+.btn-item {
+  height: 2rem;
+  width: 5rem;
+  border: 0px solid transparent;
+  background-color: transparent;
+  font-weight: 400;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #7b8794;
+  border: 2px solid #7b8794;
+  margin-right: 5px;
+  align-self: center;
+  background-color: transparent;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+button:hover {
+  cursor: pointer;
+}
+.btn-active {
+  border: 3px solid #2563eb;
+  margin-right: 5px;
+  align-self: center;
+  background-color: transparent;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  color: #2563eb;
+  font-weight: bold;
+}
